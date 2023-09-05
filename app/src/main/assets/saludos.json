@@ -1,0 +1,29 @@
+{
+  "saludos": [
+    {
+      "name": "Ingles",
+      "greeting": "Hello"
+    },
+    {
+      "name": "Frances",
+      "greeting": "Bonjour"
+    },
+    {
+      "name": "Aleman",
+      "greeting": "Hallo"
+    },
+    {
+      "name": "Español",
+      "greeting": "Hola"
+    },
+    {
+      "name": "Japones",
+      "greeting": "Konnichiwa"
+    },
+    {
+      "name": "Mandarin",
+      "greeting": "Nǐ hǎo"
+    }
+
+  ]
+}

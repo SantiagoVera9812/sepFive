@@ -1,0 +1,13 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "abdfrg",
+      "nota": "3"
+    },
+
+    {
+      "nombre" : "qwerfgh",
+      "nota" : "3"
+    }
+  ]
+}
